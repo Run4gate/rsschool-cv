@@ -14,7 +14,7 @@ I'm studying in RS School at the moment, learning front-end from the absolute ze
 
 ### - Examples of my code: 
 
-Nothing here.
+Nothing here at the moment.
 
 ### - My expirience:
 
