@@ -22,9 +22,12 @@ Nothing here as well.
 
 ### - My education:
 
-<br>Learning in Gomel State University to become a lawyer.</br>
-<br>Learning in RS School.</br>
+Learning in Gomel State University to become a lawyer.
+
+Learning in RS School.
 
 ### - English skills:
 
-I can speak english fluently, can watch youtube videos in english,</br> the only practice i have ever had is talking to rare native english speaking guests in my university and communicating with teammates in games.
+I can speak english fluently, can watch youtube videos in english,
+
+ the only practice i have ever had is talking to rare native english speaking guests in my university and communicating with teammates in games.
