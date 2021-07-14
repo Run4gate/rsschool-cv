@@ -22,8 +22,8 @@ Nothing here as well.
 
 ### - My education:
 
-Learning in Gomel State University to become a lawyer.</br>
-Learning in RS School.</br>
+<br>Learning in Gomel State University to become a lawyer.</br>
+<br>Learning in RS School.</br>
 
 ### - English skills:
 
